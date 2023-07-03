@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @StMust26
+- 👀 I’m interested in living
+- 🌱 I’m currently learning C#,javascript and robust toolbox engine
+- 📫 my email is stmustbk@gmail.com
